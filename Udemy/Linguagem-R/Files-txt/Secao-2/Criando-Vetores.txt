@@ -1,0 +1,9 @@
+##### VETORES: seq??ncia de valores num?ricos ou de caracteres (letras, palavras).
+
+idades<-scan()
+#OU 
+idades<-c(30,40,50,44,33)
+
+length(idade)
+
+cidades<-c("Recife","São Paulo","Belo Horizonte")

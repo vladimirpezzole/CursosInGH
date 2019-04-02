@@ -1,0 +1,27 @@
+################ R COMO CALCULADORA
+
+
+#Operadores (+ - /  *  ^ ) e ordem das operações
+
+#funções prontas
+sqrt(9)
+sin(3)
+cos(5)
+prod(2,4)
+abs(-6)
+log(3,10)
+factorial(5)
+help(log)  
+
+
+
+# Correção: no tempo de 4:10 eu falo que log(4) é logaritmo de 4 na base 2, mas o correto é na base "e" da mesma forma que ln(4).
+
+# Porque para o Logaritmo temos a função log(x, base?), onde:
+
+log(x,base=exp(1?))   #logaritmo neperiano, base "e"  [padrão]
+Ex: log(4) é ln(4)
+
+Mas você pode mudar a base:
+log(x,base=10)   #logaritmo natural na base 10
+log(x,base=2)   #logaritmo natural na base 2

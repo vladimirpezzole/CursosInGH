@@ -1,0 +1,20 @@
+Criar um algoritmo em R que faça:
+
+1 - Cadastro de alunos (nome, e-mail, etc..., notas de provas)
+    Aqui você precisa aplicar o que vimos em vetores, a função scan() deverá ser usada. 
+    Para saber se o aluno foi aprovado, basta criar um vetor "nota média" que é o calculo de outros vetores (notas), 
+    então se neste vetor média o indivíduo tiver nota abaixo de 7 (por exemplo) estará "reprovado", 
+    caso contrário aprovado (neste caso você precisa usar o if() para fazer o decision making).
+
+2 - Mostra os dados dos alunos cadastrados informando também os aprovados e reprovados.
+    Com os vetores criados, você monta um DataFrame e depois mostrar ele na tela.
+
+Perguntas para esta tarefa:
+
+1.  Você conseguiu "scanear" as informações do usuário e guardá-las em vetores?
+
+2.  Você conseguiu criar um vetor de médias com base nas notas cadastrada do tal aluno?
+
+3.  Conseguiu aplicar o decision making para o próprio algoritmo identificar os alunos Aprovados e para os Reprovados?
+
+4.  Com todas as informações guardadas no cadastro, conseguiu montar um data frame?
